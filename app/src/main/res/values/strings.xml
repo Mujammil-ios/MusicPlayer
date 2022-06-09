@@ -1,0 +1,48 @@
+<resources>
+    <string name="app_name">MusicPlayer</string>
+
+    <string name="shuffle_btn">Shuffle</string>
+    <string name="favourites_btn">Favourites</string>
+    <string name="playlist_btn">playlist</string>
+    <string name="totle_count">total count</string>
+    <string name="world_of_music">world of music</string>
+    <string name="song_name">song name</string>
+    <string name="back_btn">back</string>
+    <string name="Start">00:00</string>
+    <string name="loding">Loading..</string>
+
+
+    <string name="repete">repete</string>
+    <string name="eqlizaer">equalazer</string>
+    <string name="timer">timer</string>
+    <string name="share">share</string>
+    <string name="open">open</string>
+    <string name="close">close</string>
+    <string name="text_nav">word of music\nwell come</string>
+    <string name="app_icon">Icon</string>
+
+    <string name="feedback">Feedback</string>
+    <string name="setting">Setting</string>
+    <string name="about">About</string>
+    <string name="exit">Exit</string>
+
+    <string name="song_album">song album</string>
+
+    <string name="min_15">15 Minites</string>
+    <string name="min_60">60 Minites</string>
+    <string name="min_30">30 Minites</string>
+
+    <string name="Search_view">Search view</string>
+    <string name="song_img">Song Image</string>
+    <string name="playlist_name">Playlist Name</string>
+    <string name="playlist_delete">Delete Playlist</string>
+    <string name="user_name">Your name</string>
+    <string name="add_song">Add</string>
+    <string name="remove_all">Remove All</string>
+    <string name="search_song">Search song</string>
+    <string name="topic_feedback">Topic i.e. Suggestion, Error, etc</string>
+    <string name="email_feedback">Email Address (Optinals)</string>
+    <string name="sent">Send</string>
+
+
+</resources>

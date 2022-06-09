@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/MusicPlayer/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.177" />
+        <entry key="..\:/MusicPlayer/app/src/main/res/drawable/add_icon.xml" value="0.1" />
+        <entry key="..\:/MusicPlayer/app/src/main/res/drawable/back_icon.xml" value="0.1545" />
+        <entry key="..\:/MusicPlayer/app/src/main/res/drawable/custom_search_view.xml" value="0.1" />
+        <entry key="..\:/MusicPlayer/app/src/main/res/drawable/exit_icon.xml" value="0.1" />
+        <entry key="..\:/MusicPlayer/app/src/main/res/drawable/favorite.xml" value="0.1495" />
+        <entry key="..\:/MusicPlayer/app/src/main/res/drawable/favourte_empty_icon.xml" value="0.1765" />
+        <entry key="..\:/MusicPlayer/app/src/main/res/drawable/ic_baseline_arrow_back_ios_24.xml" value="0.1545" />
+        <entry key="..\:/MusicPlayer/app/src/main/res/drawable/ic_launcher_background.xml" value="0.177" />
+        <entry key="..\:/MusicPlayer/app/src/main/res/drawable/next_icon.xml" value="0.2075" />
+        <entry key="..\:/MusicPlayer/app/src/main/res/drawable/pause_icon.xml" value="0.2075" />
+        <entry key="..\:/MusicPlayer/app/src/main/res/drawable/play_icon.xml" value="0.1" />
+        <entry key="..\:/MusicPlayer/app/src/main/res/drawable/playlist.xml" value="0.1495" />
+        <entry key="..\:/MusicPlayer/app/src/main/res/drawable/previous_icon.xml" value="0.1545" />
+        <entry key="..\:/MusicPlayer/app/src/main/res/drawable/remove_icon.xml" value="0.1" />
+        <entry key="..\:/MusicPlayer/app/src/main/res/drawable/scroll_bar.xml" value="0.1265" />
+        <entry key="..\:/MusicPlayer/app/src/main/res/drawable/search_icon.xml" value="0.1" />
+        <entry key="..\:/MusicPlayer/app/src/main/res/drawable/settings_icon.xml" value="0.1" />
+        <entry key="..\:/MusicPlayer/app/src/main/res/drawable/shuffle.xml" value="0.1495" />
+        <entry key="..\:/MusicPlayer/app/src/main/res/drawable/splash_screen.xml" value="0.1" />
+        <entry key="..\:/MusicPlayer/app/src/main/res/layout/activity_about.xml" value="0.12916666666666668" />
+        <entry key="..\:/MusicPlayer/app/src/main/res/layout/activity_favourte.xml" value="0.15" />
+        <entry key="..\:/MusicPlayer/app/src/main/res/layout/activity_feedback.xml" value="0.25" />
+        <entry key="..\:/MusicPlayer/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/MusicPlayer/app/src/main/res/layout/activity_player.xml" value="0.2" />
+        <entry key="..\:/MusicPlayer/app/src/main/res/layout/activity_playlist.xml" value="0.19947916666666668" />
+        <entry key="..\:/MusicPlayer/app/src/main/res/layout/activity_playlist_detail.xml" value="0.18" />
+        <entry key="..\:/MusicPlayer/app/src/main/res/layout/activity_selection.xml" value="0.15" />
+        <entry key="..\:/MusicPlayer/app/src/main/res/layout/activity_setting.xml" value="0.1" />
+        <entry key="..\:/MusicPlayer/app/src/main/res/layout/add_playlist_dialog.xml" value="0.1" />
+        <entry key="..\:/MusicPlayer/app/src/main/res/layout/bottom_sheet_dialog.xml" value="0.22" />
+        <entry key="..\:/MusicPlayer/app/src/main/res/layout/favourite_view.xml" value="0.1" />
+        <entry key="..\:/MusicPlayer/app/src/main/res/layout/fragment_now_playing.xml" value="0.25" />
+        <entry key="..\:/MusicPlayer/app/src/main/res/layout/music_view.xml" value="0.22" />
+        <entry key="..\:/MusicPlayer/app/src/main/res/layout/nav_header.xml" value="0.170873786407767" />
+        <entry key="..\:/MusicPlayer/app/src/main/res/layout/playlist_view.xml" value="0.17" />
+        <entry key="..\:/MusicPlayer/app/src/main/res/menu/nav_manu.xml" value="0.33" />
+        <entry key="..\:/MusicPlayer/app/src/main/res/menu/search_view_manu.xml" value="0.1" />
+        <entry key="..\:/MusicPlayer/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.1" />
+        <entry key="..\:/MusicPlayer/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.1" />
+        <entry key="..\:/MusicPlayer/app/src/main/res/mipmap-anydpi-v26/music_round.xml" value="0.1" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
