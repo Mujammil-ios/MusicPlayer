@@ -19,6 +19,6 @@ class AboutActivity : AppCompatActivity() {
         binding.aboutText.text = aboutText()
     }
     private fun aboutText(): String{
-        return "Developed BY: Mujammil and Vishal" + "\n\n If you want to provide FeedBack,I will love to hear that"
+        return "Developed BY: Pinjara Mujammil" + "\n\n If you want to provide FeedBack,I will love to hear that"
     }
 }

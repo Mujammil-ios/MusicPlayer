@@ -146,11 +146,13 @@ class PlayerActivity : AppCompatActivity(),ServiceConnection,MediaPlayer.OnCompl
                 isfavourite = false
                 binding.favourteBtnPA.setImageResource(R.drawable.favourte_empty_icon)
                 FavourteActivity.favouriteSongs.removeAt(fIndex)
+
             }
             else{
                 isfavourite = true
                 binding.favourteBtnPA.setImageResource(R.drawable.favorite)
                 FavourteActivity.favouriteSongs.add(musicListPA[songPotion])
+                finish()
 
             }
 
